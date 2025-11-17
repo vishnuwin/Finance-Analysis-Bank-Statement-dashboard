@@ -4,7 +4,9 @@ This project analyses a personal monthly bank statement containing income, expen
 
 ## Dataset used
 - Excel <a href= "https://github.com/vishnuwin/Finance-Analysis-Bank-Statement-dashboard/blob/main/BankStatement_ExcelProject.xlsx">Download here</a>
-- Dashboard screenshort <a href= "https://github.com/vishnuwin/Finance-Analysis-Bank-Statement-dashboard/blob/main/Screenshot%202025-11-14%20130032.png">Download here</a>
+  
+## Dashboard
+<img width="868" height="557" alt="Screenshot 2025-11-14 130032" src="https://github.com/user-attachments/assets/dfc59c46-54b9-49d6-b06b-0a99b6cc411f" />
 
 ## Data Cleaning & Preparation
 During preprocessing, some transformations were applied for clarity and analytical convenience:
