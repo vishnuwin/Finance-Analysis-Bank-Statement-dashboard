@@ -1,6 +1,6 @@
 # Finance-Analysis-Bank-Statement-dashboard
 ## project overview
-This project analyses a personal monthly bank statement containing income, expenses, transaction categories, and running balances. It helps identify spending habits, recurring expenses, monthly income patterns, and overall financial trends.
+This project analyses a personal monthly bank statement containing income, expenses, transaction categories, and running balances. It helps identify spending habits, recurring expenses, monthly income patterns, and overall financial trends. Her i used the functions like SUMIF(),SUMIFS(), VLOOKUP(), XLOOKUP(), and COUNTIF(). Slicers, Pivote tables and Charts for the analysis.
 
 ## Dataset used
 - Excel <a href= "https://github.com/vishnuwin/Finance-Analysis-Bank-Statement-dashboard/blob/main/BankStatement_ExcelProject.xlsx">Download here</a>
